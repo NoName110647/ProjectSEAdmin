@@ -24,11 +24,11 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
-input,textarea{
+input,textarea, select{
   @apply border-2 border-gray-300 rounded-md px-1 w-full;
   @apply mb-2;
 }
-input:focus,textarea:focus{
+input:focus,textarea:focus select:focus{
   @apply border-2 border-blue-900;
 }
 h1{

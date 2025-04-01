@@ -22,7 +22,9 @@
     "next-auth": "^4.24.11",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-sweetalert2": "^0.6.0",
+    "sweetalert2": "^11.17.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
