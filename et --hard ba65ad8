@@ -1,0 +1,11 @@
+[33md223661[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to d223661
+[33m4217d36[m HEAD@{1}: reset: moving to 4217d36
+[33md223661[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: reset: moving to d223661
+[33mba65ad8[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{3}: commit: Action Button system
+[33md223661[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33md223661[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: commit: Mongoose conected
+[33m4217d36[m HEAD@{6}: commit: secound version
+[33mb42ca63[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb42ca63[m HEAD@{9}: commit: first version
+[33m3c3d1dc[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/main
+[33m3c3d1dc[m HEAD@{12}: commit (initial): Initial commit from Create Next App
