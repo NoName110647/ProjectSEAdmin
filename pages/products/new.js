@@ -1,6 +1,6 @@
 import Layout from "@/Components/Layout";
 import axios from "axios";
-import { Router, useRouter } from "next/router";
+import { useRouter } from "next/router";
 import { useState } from "react";
 
 export default function NewProduct(){
